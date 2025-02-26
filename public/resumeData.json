@@ -77,6 +77,12 @@
         "category": "",
         "image": "images.png",
         "url": "https://netflix-clone-92e76.web.app/"
+      },
+      {
+        "title": "Sticky Notes",
+        "category": "",
+        "image": "StickyNotes.png",
+        "url": "https://sticky-notes-one-jade.vercel.app/"
       }
     ]
   },
